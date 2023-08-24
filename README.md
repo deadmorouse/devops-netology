@@ -6,4 +6,14 @@
 #   3. Crash log files - файлы логов для траблшутинга
 #   4. all .tfvars files - файлы могут содержать критически важные данные
 #   5. override files - файлы переопределения ресурсов
-#   6. CLI configuration files - файлы конфигурации командной строки 
+#   6. CLI configuration files - файлы конфигурации командной строки
+
+
+
+ff
+f
+
+fg
+fgf
+g
+fg 
